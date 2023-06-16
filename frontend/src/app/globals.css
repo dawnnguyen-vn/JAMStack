@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+ul,
+ol {
+  list-style: revert;
+}
+
+.bg-yellow-400 {
+  background-color: rgb(250 204 21);
+}
+
+.bg-purple-900 {
+  background-color: rgb(88 28 135);
+}
+
+.bg-blue-950 {
+  background-color: rgb(23 37 84);
+}
+
+.bg-blue-600 {
+  background-color: rgb(37 99 235);
+}

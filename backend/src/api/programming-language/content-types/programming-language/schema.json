@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "programming_languages",
+  "info": {
+    "singularName": "programming-language",
+    "pluralName": "programming-languages",
+    "displayName": "Programming Language"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "color": {
+      "type": "string"
+    }
+  }
+}
